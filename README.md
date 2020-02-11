@@ -12,7 +12,7 @@ Example project to log data from iOT device, raspberry, esp8266, arduino and mor
 1. Install requirements
 
 ```shell
-sudo pip install requests
+$ sudo pip install requests
 ```
 
 2. Create your FireGUI Project (<a href="https://youtu.be/QQnwSwtOlRA">video tutorial</a>)
@@ -26,6 +26,6 @@ sudo pip install requests
 6. Run script!
 
 ```shell
-python datalogger.py
+$ python datalogger.py
 ```
 <img src="http://g.recordit.co/8Bn4WYIcET.gif" />
