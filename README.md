@@ -1,6 +1,6 @@
 <a href="https://www.digitalborder.net"><img src="http://digitalborder.net/wp-content/uploads/2016/10/cropped-digital-border-150x150.png" title="DigitalBorder" alt="DigitalBorder"></a>
 
-# Datalogger with <a href="https://www,firegui.com">FireGUI</a> Project and PIR Sensor + Raspberry in 5 minutes
+# Datalogger with <a href="https://www.firegui.com">FireGUI</a> Project and PIR Sensor + Raspberry in 5 minutes
 
 Example project to log data from iOT device, raspberry, esp8266, arduino and more to Firegui project in 5 minutes!
 
@@ -15,7 +15,7 @@ Example project to log data from iOT device, raspberry, esp8266, arduino and mor
 $ sudo pip install requests
 ```
 
-2. Create your <a href="https://www,firegui.com">FireGUI Project</a> (<a href="https://youtu.be/QQnwSwtOlRA">video tutorial</a>)
+2. Create your <a href="https://www.firegui.com">FireGUI Project</a> (<a href="https://youtu.be/QQnwSwtOlRA">video tutorial</a>)
 
 3. Create your data log entity (<a href="https://youtu.be/QQnwSwtOlRA">video tutorial</a>)
 
